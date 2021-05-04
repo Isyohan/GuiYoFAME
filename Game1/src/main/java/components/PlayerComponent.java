@@ -84,10 +84,39 @@ public class PlayerComponent extends Component {
 
         jumps--;
     }
+    public void whistleA() {
 
-    public void whistle() {
+        play("notes/A(La).wav");
 
-        play("Honking.wav");
+    }
+    public void whistleB() {
+
+        play("notes/B(Si).wav");
+
+    }
+    public void whistleC() {
+
+        play("notes/C(Do).wav");
+
+    }
+    public void whistleD() {
+
+        play("notes/D(Ré).wav");
+
+    }
+    public void whistleE() {
+
+        play("notes/E(Mi).wav");
+
+    }
+    public void whistleF() {
+
+        play("notes/F(Fa).wav");
+
+    }
+    public void whistleG() {
+
+        play("notes/G(Sol).wav");
 
     }
     public double dEnemy(EnemyComponent enemy){
