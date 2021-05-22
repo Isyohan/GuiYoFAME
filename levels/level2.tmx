@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="right-down" width="15" height="10" tilewidth="70" tileheight="70" infinite="0" nextlayerid="3" nextobjectid="21">
+ <properties>
+  <property name="star1time" type="float" value="7"/>
+ </properties>
+ <tileset firstgid="1" name="tiles_spritesheet" tilewidth="70" tileheight="70" spacing="2" tilecount="156" columns="12">
+  <image source="tiles_spritesheet.png" width="914" height="936"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="71" height="11">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,57,57,57,0,0,0,0,0,0,0,0,0,0,0,153,0,0,0,0,0,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,116,104,104,104,104,104,104,104,104,104,104,104,104,104,104,153,0,
+0,153,153,153,57,57,0,0,0,0,0,0,0,0,0,153,0,0,0,0,0,153,0,0,0,0,0,0,0,0,0,0,104,0,0,0,0,0,0,0,0,104,0,0,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,153,0,
+0,153,153,153,153,153,0,0,0,0,0,0,0,81,0,153,0,66,54,42,0,153,0,0,0,0,0,0,78,0,0,0,153,0,0,0,0,0,78,0,0,153,0,0,153,0,0,0,0,0,0,81,0,0,116,104,104,104,104,104,104,104,104,104,104,104,104,104,104,153,0,
+0,153,153,153,153,153,54,54,54,42,0,0,0,0,0,0,0,0,81,0,0,153,54,54,42,0,0,0,0,0,0,0,153,54,42,0,0,0,0,0,0,153,0,0,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,153,0,
+0,153,153,153,153,153,57,57,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81,0,0,0,0,0,0,0,0,153,45,0,0,0,0,0,0,0,153,0,0,153,104,104,104,104,104,104,104,104,0,116,104,104,104,104,104,104,104,104,104,104,104,104,92,0,153,0,
+0,153,153,153,153,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,153,0,0,0,0,69,57,57,57,153,0,0,153,153,153,153,153,153,153,153,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,153,0,
+0,153,153,153,153,153,54,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,153,0,0,0,0,0,0,0,0,153,0,0,153,153,153,153,153,153,153,153,153,0,116,104,104,104,104,104,104,104,104,104,104,104,104,104,104,153,0,
+0,153,153,153,153,153,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,153,0,0,0,0,0,0,0,0,0,0,153,0,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,153,153,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,153,104,104,104,104,104,104,104,104,104,0,0,0,0,0,116,104,104,104,104,104,104,104,104,104,104,104,104,104,92,
+0,153,153,153,104,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="2" name="Object Layer 1">
+  <object id="1" type="platform" x="0" y="-70" width="70" height="770"/>
+  <object id="2" type="platform" x="70" y="101" width="210" height="700"/>
+  <object id="3" type="platform" x="280" y="171" width="140" height="459"/>
+  <object id="4" type="platform" x="280" y="700" width="140" height="70"/>
+  <object id="5" type="platform" x="420" y="591" width="70" height="39"/>
+  <object id="6" type="platform" x="420" y="490" width="140" height="39"/>
+  <object id="7" type="platform" x="420" y="381" width="210" height="39"/>
+  <object id="8" type="platform" x="420" y="280" width="280" height="39"/>
+
+  <object id="10" type="platform" x="910" y="241" width="70" height="39"/>
+  <object id="11" type="platform" x="1050" y="70" width="70" height="210"/>
+  <object id="12" type="platform" x="1260" y="311" width="70" height="39"/>
+  <object id="13" type="platform" x="1190" y="210" width="210" height="39"/>
+  <object id="14" type="platform" x="1470" y="70" width="70" height="280"/>
+  <object id="15" type="platform" x="1610" y="381" width="70" height="39"/>
+  <object id="16" type="platform" x="1540" y="280" width="210" height="39"/>
+  <object id="17" type="platform" x="1960" y="210" width="70" height="39"/>
+
+  <object id="18" type="platform" x="2240" y="140" width="70" height="420"/>
+  <object id="19" type="platform" x="2310" y="280" width="140" height="39"/>
+  <object id="20" type="platform" x="2310" y="381" width="70" height="39"/>
+  <object id="21" type="platform" x="2660" y="210" width="70" height="39"/>
+  <object id="22" type="platform" x="2870" y="140" width="70" height="640"/>
+  <object id="23" type="platform" x="2590" y="451" width="280" height="640"/>
+  <object id="24" type="platform" x="2940" y="630" width="630" height="70"/>
+
+  <object id="25" type="platform" x="3080" y="140" width="70" height="420"/>
+  <object id="26" type="platform" x="3150" y="350" width="560" height="210"/>
+  <object id="27" type="platform" x="3780" y="350" width="980" height="70"/>
+  <object id="28" type="platform" x="3780" y="490" width="1050" height="70"/>
+  <object id="29" type="platform" x="3640" y="560" width="70" height="70"/>
+  <object id="30" type="platform" x="3780" y="560" width="70" height="70"/>
+  <object id="31" type="platform" x="3920" y="630" width="1050" height="210"/>
+  <object id="32" type="platform" x="3570" y="241" width="70" height="39"/>
+  <object id="33" type="platform" x="3780" y="210" width="1050" height="70"/>
+  <object id="34" type="platform" x="3780" y="70" width="1050" height="70"/>
+  <object id="35" type="platform" x="4830" y="70" width="70" height="490"/>
+
+  <object id="1" type="button" x="310" y="660"/>
+  <object id="2" type="button" x="1290" y="180"/>
+  <object id="3" type="button" x="2840" y="411"/>
+
+  <object id="17" type="exitSign" gid="65" x="4830" y="630" width="70" height="70"/>
+  <object id="18" type="doorBot" gid="58" x="4900" y="630" width="70" height="70"/>
+  <object id="19" type="doorTop" gid="46" x="4900" y="560" width="70" height="70"/>
+
+  <object id="4" type="enemy" x="380" y="650" width="16" height="21"/>
+  <object id="5" type="enemy" x="460" y="541" width="16" height="21"/>
+  <object id="6" type="enemy" x="530" y="450" width="16" height="21"/>
+  <object id="7" type="enemy" x="600" y="341" width="16" height="21"/>
+  <object id="8" type="enemy" x="670" y="240" width="16" height="21"/>
+  <object id="12" type="enemy" x="1290" y="271" width="16" height="21"/>
+  <object id="13" type="enemy" x="1290" y="170" width="16" height="21"/>
+  <object id="15" type="enemy" x="1640" y="341" width="16" height="21"/>
+  <object id="16" type="enemy" x="1720" y="240" width="16" height="21"/>
+  <object id="18" type="enemy" x="2270" y="100" width="16" height="21"/>
+  <object id="19" type="enemy" x="2420" y="240" width="16" height="21"/>
+  <object id="21" type="enemy" x="2690" y="170" width="16" height="21"/>
+  <object id="23" type="enemy" x="2730" y="411" width="16" height="21"/>
+  <object id="24" type="enemy" x="3300" y="590" width="16" height="21"/>
+  <object id="33" type="enemy" x="3810" y="170" width="16" height="21"/>
+  <object id="33" type="enemy" x="4200" y="170" width="16" height="21"/>
+  <object id="27" type="enemy" x="3810" y="310" width="16" height="21"/>
+  <object id="27" type="enemy" x="4200" y="310" width="16" height="21"/>
+  <object id="28" type="enemy" x="3810" y="450" width="16" height="21"/>
+  <object id="28" type="enemy" x="4200" y="450" width="16" height="21"/>
+  <object id="31" type="enemy" x="3950" y="590" width="16" height="21"/>
+
+ </objectgroup>
+</map>
