@@ -1,0 +1,94 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MusicAdventure:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/MusicAdventure_jar2</output-path>
+    <root id="archive" name="MusicAdventure.jar">
+      <element id="module-output" name="MusicAdventure" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-media/11.14/fxgl-media-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/15/javafx-controls-15-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.30/kotlin-stdlib-common-1.4.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-time/11.14/fxgl-time-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-profiles/11.14/fxgl-profiles-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/gluonhq/attach/audio/4.0.9/audio-4.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-media/15/javafx-media-15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/15/javafx-controls-15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.11.1/jackson-core-2.11.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-swing/15/javafx-swing-15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/15/javafx-base-15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-media/15/javafx-media-15-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.4.30/kotlin-stdlib-1.4.30-modular.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-ai/11.14/fxgl-ai-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-swing/15/javafx-swing-15-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.11.1/jackson-annotations-2.11.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-core/11.14/fxgl-core-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-scene/11.14/fxgl-scene-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-localization/11.14/fxgl-localization-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/15/javafx-fxml-15-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/gluonhq/attach/lifecycle/4.0.9/lifecycle-4.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/gluonhq/attach/util/4.0.9/util-4.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-input/11.14/fxgl-input-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/15/javafx-graphics-15-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/15/javafx-fxml-15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-cutscene/11.14/fxgl-cutscene-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/15/javafx-base-15-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-io/11.14/fxgl-io-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-net/11.14/fxgl-net-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-events/11.14/fxgl-events-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-minigames/11.14/fxgl-minigames-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/15/javafx-graphics-15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-effects/11.14/fxgl-effects-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-achievement/11.14/fxgl-achievement-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-trade/11.14/fxgl-trade-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl/11.14/fxgl-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-entity/11.14/fxgl-entity-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-ui/11.14/fxgl-ui-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-animation/11.14/fxgl-animation-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/almasb/fxgl-logging/11.14/fxgl-logging-11.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.11.1/jackson-databind-2.11.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/gluonhq/attach/storage/4.0.9/storage-4.0.9.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.1" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.1" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.1" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-achievement:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-ai:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-animation:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-core:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-cutscene:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-effects:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-entity:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-events:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-input:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-io:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-localization:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-logging:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-media:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-minigames:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-net:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-profiles:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-scene:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-time:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-trade:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl-ui:11.14" />
+      <element id="library" level="project" name="Maven: com.github.almasb:fxgl:11.14" />
+      <element id="library" level="project" name="Maven: com.gluonhq.attach:audio:4.0.9" />
+      <element id="library" level="project" name="Maven: com.gluonhq.attach:lifecycle:4.0.9" />
+      <element id="library" level="project" name="Maven: com.gluonhq.attach:storage:4.0.9" />
+      <element id="library" level="project" name="Maven: com.gluonhq.attach:util:4.0.9" />
+      <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.30" />
+      <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:modular:1.4.30" />
+      <element id="library" level="project" name="Maven: org.jetbrains:annotations:13.0" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:15" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:15" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:15" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:15" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:15" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:win:15" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:15" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:15" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-media:15" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-media:win:15" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-swing:15" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-swing:win:15" />
+    </root>
+  </artifact>
+</component>

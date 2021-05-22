@@ -1,0 +1,140 @@
+10:09:55.100 [main                     ] DEBUG Logger               - Configured Logger
+10:09:55.123 [main                     ] DEBUG GameApplication      - Logging settings
+Title: Game 1 Let's go
+Version: 1.0
+Width: 1280
+Height: 720
+Fullscreen: false
+Intro: false
+Profiling: false
+Single step:false
+App Mode: DEVELOPER
+Menu Key: ESCAPE
+Stage Style: DECORATED
+Scene Factory: class Main.App$1
+
+10:09:56.534 [JavaFX Application Thread] DEBUG FXGLApplication      - Initializing FXGL
+10:09:56.538 [JavaFX Application Thread] INFO  Engine               - FXGL-11.14 (01.03.2021 16.59) on WINDOWS (J:15.0.2 FX:15)
+10:09:56.540 [JavaFX Application Thread] DEBUG Engine               - JRE Vendor Name: Oracle Corporation
+10:09:56.540 [JavaFX Application Thread] DEBUG Engine               - Running on OS: Windows 10 version 10.0
+10:09:56.541 [JavaFX Application Thread] DEBUG Engine               - Architecture: amd64
+10:09:56.541 [JavaFX Application Thread] INFO  Engine               - Source code and latest versions at: https://github.com/AlmasB/FXGL
+10:09:56.542 [JavaFX Application Thread] INFO  Engine               -              Join the FXGL chat at: https://gitter.im/AlmasB/FXGL
+10:09:56.664 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Creating a JavaFX scene
+10:09:56.665 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Target size > screen size
+10:09:56.755 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Target settings size: 1280.0 x 720.0
+10:09:56.756 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Scaled scene size:    1183.0 x 679.0
+10:09:56.756 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Scaled ratio: (0.92421875, 0.9430555555555555)
+10:09:56.757 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Set initial scene to FXGLStartupScene
+10:09:56.764 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Opening main window
+10:09:56.934 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Window border size: (15.0, 37.66668701171875)
+10:09:56.935 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Scaled size: 1183.0 x 679.0
+10:09:56.935 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Scaled ratio: (0.92421875, 0.9430555555555555)
+10:09:56.936 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Scene size: 1183.0 x 679.0
+10:09:56.936 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Stage size: 1198.0 x 716.6666870117188
+10:09:56.961 [FXGL Background Thread 1 ] DEBUG Engine               - Initializing environment variables
+10:09:57.070 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - User app class for loading assets: class Main.App
+10:09:57.071 [FXGL Background Thread 1 ] DEBUG GameApplicationServi - Applying CSS: fxgl_dark.css
+10:09:57.073 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/fxglassets/ui/css/fxgl_dark.css
+10:09:57.170 [FXGL Background Thread 1 ] DEBUG GameApplicationServi - Initializing application scenes
+10:09:57.271 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/assets/textures/player.png
+10:09:57.304 [FXGL Background Thread 1 ] DEBUG GameWorld            - Game world initialized
+10:09:57.384 [FXGL Background Thread 1 ] DEBUG PhysicsWorld         - Physics world initialized: appHeight=720, physics.ppm=50,0
+10:09:57.385 [FXGL Background Thread 1 ] DEBUG PhysicsWorld         - Using strategy: BRUTE_FORCE
+10:09:57.388 [FXGL Background Thread 1 ] DEBUG GameScene            - Game scene initialized: 1280x720
+10:09:57.407 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/fxglassets/textures/particles/trace_horizontal.png
+10:09:57.462 [FXGL Background Thread 1 ] DEBUG FXGL.DefaultMenu     - createMenuBodyGameMenu()
+10:09:57.493 [FXGL Background Thread 1 ] DEBUG FXGL.DefaultMenu     - createOptionsMenu()
+10:09:57.525 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/fxglassets/textures/particles/smoke.png
+10:09:57.622 [FXGL Background Thread 1 ] DEBUG GameApplicationServi - Application scenes initialized
+10:09:57.637 [FXGL Background Thread 1 ] DEBUG SystemBundleService  - Loading FXGL system data
+10:09:57.648 [FXGL Background Thread 1 ] DEBUG FileSystemAccess     - Reading from: C:\Users\isyoh\Documents\école\Object oriented program\Cours\MusicAdventure\out\artifacts\MusicAdventure_jar\system\fxgl.bundle
+10:09:57.661 [FXGL Background Thread 1 ] DEBUG SystemBundleService  - Bundle FXGL: {}
+10:09:57.662 [FXGL Background Thread 1 ] DEBUG UpdaterService       - Checking for updates
+10:09:57.669 [FXGL Background Thread 4 ] DEBUG FXGLApplication      - Loading fonts
+10:09:57.670 [FXGL Background Thread 4 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/fxglassets/ui/fonts/VarelaRound-Regular.ttf
+10:09:57.671 [FXGL Background Thread 1 ] DEBUG FXGLApplication      - Loading default localization
+10:09:57.673 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/fxglassets/languages/english.lang
+10:09:57.695 [FXGL Background Thread 1 ] INFO  FXGLApplication      - FXGL initialization took: 0,734 sec
+10:09:57.711 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Left - Left
+10:09:57.712 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Right - Right
+10:09:57.712 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Jump - Up
+10:09:57.713 [JavaFX Application Thread] DEBUG Input                - Registered new binding: WhistleA - 1
+10:09:57.713 [JavaFX Application Thread] DEBUG Input                - Registered new binding: WhistleB - 2
+10:09:57.714 [JavaFX Application Thread] DEBUG Input                - Registered new binding: WhistleC - 3
+10:09:57.714 [JavaFX Application Thread] DEBUG Input                - Registered new binding: WhistleD - 4
+10:09:57.715 [JavaFX Application Thread] DEBUG Input                - Registered new binding: WhistleE - 5
+10:09:57.715 [JavaFX Application Thread] DEBUG Input                - Registered new binding: WhistleF - 6
+10:09:57.716 [JavaFX Application Thread] DEBUG Input                - Registered new binding: WhistleG - 7
+10:09:57.716 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Use - E
+10:09:57.717 [JavaFX Application Thread] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/assets/music/BGM_dash_runner.wav
+10:09:58.274 [JavaFX Application Thread] DEBUG AudioPlayer          - Playing music com.almasb.fxgl.audio.Music@201e1b6f
+10:09:58.288 [JavaFX Application Thread] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/fxglassets/textures/fxgl_icon.png
+10:09:58.332 [JavaFX Application Thread] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/fxglassets/ui/cursors/fxgl_default.png
+10:09:58.339 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Screenshot - P
+10:09:58.340 [JavaFX Application Thread] DEBUG Input                - Registered new binding: System info dump - CTRL+9
+10:09:58.341 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Restart - CTRL+R
+10:09:58.348 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Toggle Debug Camera - CTRL+C
+10:09:58.355 [JavaFX Application Thread] DEBUG LoopRunner           - Starting loop
+10:09:58.355 [JavaFX Application Thread] DEBUG LoopRunner           - Initializing JavaFX AnimationTimerLoop
+10:09:58.361 [JavaFX Application Thread] DEBUG GameApplicationServi - Starting new game
+10:09:58.363 [JavaFX Application Thread] DEBUG Input                - Clearing active input actions
+10:09:58.384 [JavaFX Application Thread] DEBUG GameApplicationServi - Removing overlay from FXGLStartupScene and adding to BetterLoadingScene
+10:09:58.385 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - FXGLStartupScene -> BetterLoadingScene
+10:09:58.385 [JavaFX Application Thread] DEBUG GameApplicationServi - Clearing previous game
+10:09:58.385 [JavaFX Application Thread] DEBUG GameScene            - Clearing game scene
+10:09:58.386 [JavaFX Application Thread] DEBUG GameWorld            - Clearing game world
+10:09:58.386 [JavaFX Application Thread] DEBUG PhysicsWorld         - Clearing physics world
+10:09:58.389 [FXGL Background Thread 1 ] DEBUG FXGLApplication      - Initializing game
+10:09:58.495 [FXGL Background Thread 1 ] DEBUG TMXLevelLoader       - Parsed raw map: TiledMap(width=15, height=10, tilewidth=70, tileheight=70, orientation=orthogonal, layers=[Layer(width=15, height=10, name=Tile Layer 1, type=tilelayer, visible=false, x=0, y=0, data=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 116, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 92], objects=[], opacity=0.0, draworder=), Layer(width=0, height=0, name=Object Layer 1, type=objectgroup, visible=false, x=0, y=0, data=[], objects=[com.almasb.fxgl.entity.level.tiled.TiledObject@4be3360, com.almasb.fxgl.entity.level.tiled.TiledObject@3738b856, com.almasb.fxgl.entity.level.tiled.TiledObject@367ddd31, com.almasb.fxgl.entity.level.tiled.TiledObject@1b2fbfd9, com.almasb.fxgl.entity.level.tiled.TiledObject@6effbaef, com.almasb.fxgl.entity.level.tiled.TiledObject@1c77456e, com.almasb.fxgl.entity.level.tiled.TiledObject@443b8784, com.almasb.fxgl.entity.level.tiled.TiledObject@220c39ad, com.almasb.fxgl.entity.level.tiled.TiledObject@31b7d7c1, com.almasb.fxgl.entity.level.tiled.TiledObject@174da8ac, com.almasb.fxgl.entity.level.tiled.TiledObject@f520a66, com.almasb.fxgl.entity.level.tiled.TiledObject@4cd09b70], opacity=0.0, draworder=)], tilesets=[Tileset(firstgid=1, image=tiles_spritesheet.png, name=tiles_spritesheet, tilewidth=70, tileheight=70, imagewidth=914, imageheight=936, margin=0, spacing=2, columns=12, tilecount=156, transparentcolor=, tiles=[])], backgroundcolor=, renderorder=right-down, nextobjectid=22, version=1, tiledversion=1.2.3, type=map, infinite=false, hexsidelength=0, staggeraxis=, staggerindex=, properties={star1time=7.0}, propertytypes={star1time=float})
+10:09:58.497 [FXGL Background Thread 1 ] DEBUG TMXLevelLoader       - Creating tile layer entities
+10:09:58.499 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Loading view for layer Tile Layer 1
+10:09:58.501 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Created buffer with size 1050.0x700.0
+10:09:58.592 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Writing to buffer: dst=0,630, w=70,h=70, src=504,648
+10:09:58.592 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Writing to buffer: dst=70,630, w=70,h=70, src=504,576
+10:09:58.593 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Writing to buffer: dst=140,630, w=70,h=70, src=504,576
+10:09:58.593 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Writing to buffer: dst=210,630, w=70,h=70, src=504,576
+10:09:58.593 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Writing to buffer: dst=280,630, w=70,h=70, src=504,576
+10:09:58.594 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Writing to buffer: dst=350,630, w=70,h=70, src=504,576
+10:09:58.594 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Writing to buffer: dst=420,630, w=70,h=70, src=504,576
+10:09:58.594 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Writing to buffer: dst=490,630, w=70,h=70, src=504,576
+10:09:58.594 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Writing to buffer: dst=560,630, w=70,h=70, src=504,576
+10:09:58.595 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Writing to buffer: dst=630,630, w=70,h=70, src=504,576
+10:09:58.595 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Writing to buffer: dst=700,630, w=70,h=70, src=504,576
+10:09:58.595 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Writing to buffer: dst=770,630, w=70,h=70, src=504,576
+10:09:58.596 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Writing to buffer: dst=840,630, w=70,h=70, src=504,576
+10:09:58.597 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Writing to buffer: dst=910,630, w=70,h=70, src=504,576
+10:09:58.597 [FXGL Background Thread 1 ] DEBUG TilesetLoader        - Writing to buffer: dst=980,630, w=70,h=70, src=504,504
+10:09:58.600 [FXGL Background Thread 1 ] DEBUG TMXLevelLoader       - Creating object layer entities
+10:09:58.676 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/assets/textures/A(La).png
+10:09:58.690 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/assets/textures/B(Si).png
+10:09:58.696 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/assets/textures/C(Do).png
+10:09:58.704 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/assets/textures/D(R%c3%a9).png
+10:09:58.713 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/assets/textures/E(Mi).png
+10:09:58.716 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/assets/textures/F(Fa).png
+10:09:58.725 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/assets/textures/G(Sol).png
+10:09:58.728 [FXGL Background Thread 1 ] DEBUG GameWorld            - Clearing removable entities
+10:09:58.746 [FXGL Background Thread 1 ] DEBUG GameWorld            - Setting level: com.almasb.fxgl.entity.level.Level@38f20ba8
+10:09:58.826 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/assets/textures/background/proj.png
+10:09:58.879 [FXGL Background Thread 4 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/fxglassets/ui/fonts/Abel-Regular.ttf
+10:09:58.912 [FXGL Background Thread 4 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/fxglassets/ui/fonts/lucida_console.ttf
+10:09:58.941 [FXGL Background Thread 1 ] INFO  FXGLApplication      - Game initialization took: 0,552 sec
+10:09:58.947 [FXGL Background Thread 4 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/fxglassets/ui/fonts/Courier-Prime.ttf
+10:09:58.951 [JavaFX Application Thread] DEBUG Input                - Clearing active input actions
+10:09:58.978 [JavaFX Application Thread] DEBUG GameApplicationServi - Removing overlay from BetterLoadingScene and adding to GameScene
+10:09:58.978 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - BetterLoadingScene -> GameScene
+10:09:58.980 [FXGL Background Thread 2 ] INFO  UpdaterService       - Your current version:  11.14
+10:09:58.980 [FXGL Background Thread 2 ] INFO  UpdaterService       - Latest stable version: 11.15
+10:09:59.015 [JavaFX Application Thread] DEBUG FXGLApplication      - Registering font factories with UI factory
+10:10:00.271 [JavaFX Application Thread] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/isyoh/Documents/%c3%a9cole/Object%20oriented%20program/Cours/MusicAdventure/out/artifacts/MusicAdventure_jar/MusicAdventure.jar!/assets/sounds/jump.wav
+10:10:00.318 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Push state: DialogSubScene
+10:10:00.319 [JavaFX Application Thread] DEBUG Input                - Clearing active input actions
+10:10:00.340 [JavaFX Application Thread] DEBUG GameApplicationServi - Removing overlay from GameScene and adding to DialogSubScene
+10:10:00.341 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - GameScene -> DialogSubScene
+10:10:00.561 [JavaFX Application Thread] DEBUG FXGLApplication      - Exiting FXGL
+10:10:00.562 [JavaFX Application Thread] DEBUG LoopRunner           - Stopping loop
+10:10:00.562 [JavaFX Application Thread] DEBUG SystemBundleService  - Saving FXGL system data
+10:10:00.572 [JavaFX Application Thread] DEBUG FileSystemAccess     - Writing to: C:\Users\isyoh\Documents\école\Object oriented program\Cours\MusicAdventure\out\artifacts\MusicAdventure_jar\system\fxgl.bundle
+10:10:00.583 [JavaFX Application Thread] DEBUG Async                - Shutting down background threads
+10:10:00.584 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Closing main window
+10:10:00.769 [JavaFX Application Thread] DEBUG Logger               - Closing Logger
