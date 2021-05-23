@@ -458,7 +458,7 @@ public class App extends GameApplication {
                 .stream()
                 .forEach(en->{en.removeFromWorld();});
         setLevel(geti("level"));
-        showMessage("retry is ok");
+        showMessage("You are dead.\n You will respawn at the start of the level \n Keep it up you can do it !");
         player.getComponent(PlayerComponent.class).stop();
 
     }
