@@ -68,27 +68,27 @@
   <object id="18" type="doorBot" gid="58" x="4900" y="630" width="70" height="70"/>
   <object id="19" type="doorTop" gid="46" x="4900" y="560" width="70" height="70"/>
 
-  <object id="4" type="enemy" x="380" y="650" width="16" height="21"/>
-  <object id="5" type="enemy" x="460" y="541" width="16" height="21"/>
-  <object id="6" type="enemy" x="530" y="450" width="16" height="21"/>
-  <object id="7" type="enemy" x="600" y="341" width="16" height="21"/>
-  <object id="8" type="enemy" x="670" y="240" width="16" height="21"/>
-  <object id="12" type="enemy" x="1290" y="271" width="16" height="21"/>
-  <object id="13" type="enemy" x="1290" y="170" width="16" height="21"/>
-  <object id="15" type="enemy" x="1640" y="341" width="16" height="21"/>
-  <object id="16" type="enemy" x="1720" y="240" width="16" height="21"/>
-  <object id="18" type="enemy" x="2270" y="100" width="16" height="21"/>
-  <object id="19" type="enemy" x="2420" y="240" width="16" height="21"/>
-  <object id="21" type="enemy" x="2690" y="170" width="16" height="21"/>
-  <object id="23" type="enemy" x="2730" y="411" width="16" height="21"/>
-  <object id="24" type="enemy" x="3300" y="590" width="16" height="21"/>
-  <object id="33" type="enemy" x="3810" y="170" width="16" height="21"/>
-  <object id="33" type="enemy" x="4200" y="170" width="16" height="21"/>
-  <object id="27" type="enemy" x="3810" y="310" width="16" height="21"/>
-  <object id="27" type="enemy" x="4200" y="310" width="16" height="21"/>
-  <object id="28" type="enemy" x="3810" y="450" width="16" height="21"/>
-  <object id="28" type="enemy" x="4200" y="450" width="16" height="21"/>
-  <object id="31" type="enemy" x="3950" y="590" width="16" height="21"/>
+  <object id="4" type="enemyC" x="380" y="650" width="16" height="21"/>
+  <object id="5" type="enemyE" x="460" y="541" width="16" height="21"/>
+  <object id="6" type="enemyG" x="530" y="450" width="16" height="21"/>
+  <object id="7" type="enemyD" x="600" y="341" width="16" height="21"/>
+  <object id="8" type="enemyF" x="670" y="240" width="16" height="21"/>
+  <object id="12" type="enemyA" x="1290" y="271" width="16" height="21"/>
+  <object id="13" type="enemyB" x="1290" y="170" width="16" height="21"/>
+  <object id="15" type="enemyD" x="1640" y="341" width="16" height="21"/>
+  <object id="16" type="enemyF" x="1720" y="240" width="16" height="21"/>
+  <object id="18" type="enemyC" x="2270" y="100" width="16" height="21"/>
+  <object id="19" type="enemyB" x="2420" y="240" width="16" height="21"/>
+  <object id="21" type="enemyD" x="2690" y="170" width="16" height="21"/>
+  <object id="23" type="enemyC" x="2730" y="411" width="16" height="21"/>
+  <object id="24" type="enemyE" x="3300" y="590" width="16" height="21"/>
+  <object id="33" type="enemyG" x="3810" y="170" width="16" height="21"/>
+  <object id="33" type="enemyG" x="4200" y="170" width="16" height="21"/>
+  <object id="27" type="enemyA" x="3810" y="310" width="16" height="21"/>
+  <object id="27" type="enemyC" x="4200" y="310" width="16" height="21"/>
+  <object id="28" type="enemyE" x="3810" y="450" width="16" height="21"/>
+  <object id="28" type="enemyF" x="4200" y="450" width="16" height="21"/>
+  <object id="31" type="enemyG" x="3950" y="590" width="16" height="21"/>
 
  </objectgroup>
 </map>
