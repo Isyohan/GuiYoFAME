@@ -358,7 +358,7 @@ public class App extends GameApplication {
 
     private void nextLevel() {
         if (geti("level") == MAX_LEVEL) {
-            showMessage("You finished the demo!");
+            showMessage("You finished the game!");
             return;
         }
         if (geti("level") == 1) {
