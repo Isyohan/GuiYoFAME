@@ -63,10 +63,16 @@ public class Factory implements EntityFactory {
 
     @Spawns("platform")
     public Entity newPlatform(SpawnData data) {
+        PhysicsComponent physics = new PhysicsComponent();
+        physics.setBodyType(BodyType.KINEMATIC);
+        physics.addGroundSensor(new HitBox("GROUND_SENSOR", new Point2D(16, 38), BoundingShape.box(6, 8)));
+
+        // this avoids player sticking to walls
+        physics.setFixtureDef(new FixtureDef().friction(0.0f));
         return entityBuilder(data)
                 .type(PLATFORM)
                 .bbox(new HitBox(BoundingShape.box(data.<Integer>get("width"), data.<Integer>get("height"))))
-                .with(new PhysicsComponent())
+                .with(physics)
                 .build();
     }
 
